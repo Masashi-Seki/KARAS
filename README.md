@@ -15,3 +15,7 @@ C言語．PICマイコンのソースコード．ジャイロセンサやスイ�
 # Reference
 ADC Using PIC16F877A
 https://exploreembedded.com/wiki/ADC_Using_PIC16F877A
+
+# Detailed explanation
+KARAS
+https://www.masashi.tech/karas
