@@ -11,3 +11,7 @@ Processingを使用．メインプロセス側のプログラム．グラフィ�
 
 ### Bord Side
 C言語．PICマイコンのソースコード．ジャイロセンサやスイッチの状態をシリアル通信でPCへ送信する．
+
+#参考サイト
+ADC Using PIC16F877A
+https://exploreembedded.com/wiki/ADC_Using_PIC16F877A
